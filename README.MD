@@ -1,4 +1,5 @@
 This collection of files should
+
 1. Bring up three machines using vagrant
 2. Add a compiled go app to two of them
 3. Install nginx on one of them
